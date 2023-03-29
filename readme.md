@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning a lot of stuff 🤯🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about DevOps
+- 🥅 Currently learning more about DevOps
 - ⚡ Fun fact: I treasure new shiny coins
 
 ### Connect with me:
